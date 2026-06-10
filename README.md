@@ -1,5 +1,17 @@
 # 💫 About Me:
-# Hi, I'm Fatir Ahmed 👋<br><br>## CEO & Founder | Fatir Dev Studio<br><br>I am a Full-Stack Web Developer, Tech Instructor, and BS Data Science student with a strong passion for building modern digital solutions. As the Founder and CEO of Fatir Dev Studio, I help businesses, startups, and individuals establish a strong online presence through professional websites, web applications, branding, and digital solutions.<br><br>With several years of experience in web development, I specialize in creating responsive, user-friendly, and performance-focused websites that solve real-world problems. My journey in technology started with a passion for coding and has evolved into a career focused on innovation, continuous learning, and helping others grow in the tech industry.<br><br>## 🚀 What I Do<br><br>* Full-Stack Web Development<br>* Frontend Development (HTML, CSS, JavaScript)<br>* Backend Development (PHP, MySQL)<br>* Website Design & Optimization<br>* Business Website Development<br>* Educational and Institute Management Systems<br>* E-Commerce Solutions<br>* UI/UX Design<br>* Technical Training & Mentorship<br>* AI-Assisted Development<br><br>## 🎓 Education<br><br>**BS Data Science**<br>GIFT University, Gujranwala<br><br>My academic journey in Data Science allows me to combine software development with analytical thinking, machine learning concepts, and data-driven decision-making.<br><br>## 💼 Professional Experience<br><br>### CEO & Founder — Fatir Dev Studio<br><br>Leading a development studio focused on delivering high-quality digital solutions, including:<br><br>* Business Websites<br>* Portfolio Websites<br>* Educational Platforms<br>* E-Commerce Systems<br>* Custom Web Applications<br>* Digital Branding Solutions<br><br>### Senior Developer & Instructor<br><br>Experienced in teaching web development and technology-related subjects while mentoring students and aspiring developers in modern programming practices.<br><br>## 🛠 Technical Skills<br><br>### Frontend<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* Responsive Design<br>* Bootstrap<br><br>### Backend<br><br>* PHP<br>* MySQL<br>* Authentication Systems<br>* Database Design<br><br>### Tools & Technologies<br><br>* Git & GitHub<br>* VS Code<br>* Netlify<br>* Canva<br>* Microsoft Office Suite<br><br>### Learning & Exploring<br><br>* Data Science<br>* Artificial Intelligence<br>* Machine Learning<br>* Python Programming<br>* Agentic AI<br><br>## 🌟 Mission<br><br>My mission is to build impactful digital solutions, empower students through technology education, and contribute to the growing tech community by continuously learning, creating, and sharing knowledge.<br><br>## 📈 Current Focus<br><br>* Expanding Fatir Dev Studio<br>* Advancing Full-Stack Development Skills<br>* Building AI-Powered Solutions<br>* Learning Advanced Data Science Techniques<br>* Creating Professional Software Products<br>
+# Fatir Ahmed
+br>
+CEO & Founder of Fatir Dev Studio | Full-Stack Developer | BS Data Science Student
+
+br>
+Passionate about building modern websites, web applications, and digital solutions. Experienced in HTML, CSS, JavaScript, PHP, MySQL, UI/UX design, and AI-assisted development. I enjoy solving real-world problems through technology, helping businesses grow online, and continuously learning emerging technologies in Web Development, Artificial Intelligence, and Data Science.
+br>
+
+🚀 Founder @ Fatir Dev Studio <br>
+💻 Full-Stack Developer & Tech Instructor <br>
+🎓 BS Data Science Student <br>
+🌱 Exploring AI, Machine Learning & Data Science
+<br>
 
 
 ## 🌐 Socials:
